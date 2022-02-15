@@ -29,6 +29,14 @@ p {
   border: 5px dotted green;
 }
 
+.btn {
+  background: blue;
+}
+
+.btn.btn2 {
+  background: pink;
+}
+
 button {
   outline: none;
   border: none;
